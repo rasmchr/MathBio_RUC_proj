@@ -28,19 +28,6 @@ This repository is structured as follows:
 - Symbolic computation for deriving model equations and simplifying expressions.
 - Analytical exploration of system dynamics.
 
-## Key Features
-- **Cross-Platform Compatibility**: Use of Python, MATLAB, and Maple to leverage the strengths of each platform.
-- **Data-Driven Modeling**: Incorporates industrial-scale data for realistic simulation and validation.
-- **Comprehensive Analysis**: Supports numerical, analytical, and visualization tasks to facilitate understanding of the fermentation process.
-- **Revisiting Foundational Models**: Builds upon and modernizes existing models for contemporary use cases.
-
-## Getting Started
-
-### Prerequisites
-- Install Python (3.7 or higher) with the required libraries (see `requirements.txt`).
-- MATLAB R2021a or higher with the necessary toolboxes.
-- Maple 2020 or higher.
-
 ### Installation
 1. Clone this repository:
    ```bash
@@ -67,6 +54,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 Special thanks to the authors of the referenced works and contributors to the modeling community for their foundational contributions. Their efforts have inspired this project’s approach and methodology.
+
+Also many thanks to Jesper Schmidt at Roskilde University
 
 ---
 For any questions or contributions, feel free to contact the repository maintainer or submit an issue through the GitHub repository.
