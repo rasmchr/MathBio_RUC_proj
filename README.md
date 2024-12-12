@@ -49,9 +49,6 @@ This repository is structured as follows:
 2. Industrial-scale data source: Reference [7].
 3. Additional references: [10], [15], [25], and [13] from the project’s introduction.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 Special thanks to the authors of the referenced works and contributors to the modeling community for their foundational contributions. Their efforts have inspired this project’s approach and methodology.
 
