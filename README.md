@@ -28,17 +28,6 @@ This repository is structured as follows:
 - Symbolic computation for deriving model equations and simplifying expressions.
 - Analytical exploration of system dynamics.
 
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/penicillin-modeling.git
-   ```
-2. Install Python dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Ensure MATLAB and Maple are installed and properly configured.
-
 ### Usage
 - Use Python scripts for primary data analysis and visualization.
 - Use MATLAB scripts for sensitivity analysis and advanced control design.
@@ -50,9 +39,7 @@ This repository is structured as follows:
 3. Additional references: [10], [15], [25], and [13] from the project’s introduction.
 
 ## Acknowledgments
-Special thanks to the authors of the referenced works and contributors to the modeling community for their foundational contributions. Their efforts have inspired this project’s approach and methodology.
-
-Also many thanks to Jesper Schmidt at Roskilde University
+Special thanks to the authors of the referenced works and contributors to the modeling community for their foundational contributions. Also many thanks to Jesper Schmidt at Roskilde University
 
 ---
 For any questions or contributions, feel free to contact the repository maintainer or submit an issue through the GitHub repository.
